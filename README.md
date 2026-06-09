@@ -7,3 +7,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeodn&size_weight=0.45&count_weight=0.55&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 (excluding html and css)
+
+I have a lot more commits on my company GitLab now
